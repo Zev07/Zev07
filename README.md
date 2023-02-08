@@ -4,4 +4,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zev_viktor/)
 
 ![Zëv GitHub stats](https://github-readme-stats.vercel.app/api?username=Zev07&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zev07&layout=compact)](https://github.com/Zev07/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zev07&layout=compact)
