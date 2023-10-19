@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A2551&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B3B65&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Zëv;I'm+21+years+old;I+am+from+Brazil;I+studying+self-taught;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Zëv;I'm+21+years+old;I+am+from+Brazil;I+studying+self-taught;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zev07&bg_color=1a1a1f&color=687ba1&line=1a2551&point=4b3b65&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zev07&bg_color=1a1a1f&color=8B0000&line=1a2551&point=4b3b65&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Zev07&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=1A2551&text_color=c9d1d9&bg_color=8B0000" alt="Zëv github stats" /> 
