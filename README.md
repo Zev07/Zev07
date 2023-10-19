@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zev07&theme=rogue)](https://github.com/zev07/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Zev07&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=1A2551&text_color=c9d1d9&bg_color=8B0000" alt="Zëv github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Zev07&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=8B0000" alt="Zëv github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zev07&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=0d1117" />
 </div>
 
