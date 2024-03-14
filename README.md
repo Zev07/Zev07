@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78B2C7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9072C3FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9072C3&random=false&width=435&lines=Hello%2C+I'm+Zev;Computer+science+student;My+hobby+is+create+things+%3Ad)](https://git.io/typing-svg)
 
@@ -33,4 +33,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Zev07}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78B2C7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9072C3FF&height=120&section=footer"/>
