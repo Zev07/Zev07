@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=9072C3&center=true&vCenter=true&random=false&width=1000&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello%2C+I'm+Zev+;%F0%9F%96%A5%EF%B8%8F+Computer+Science+Student+)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zev07&theme=rogue)](https://github.com/zev07/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Zev07&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=8B0000" alt="Zëv github stats" /> 
