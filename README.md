@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFFF00,100:f2f5ab&reversal=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffd000&reversal=true"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FEFF0C&center=true&vCenter=true&random=false&width=1080&height=30&lines=Hi+%F0%9F%91%8B!+My+name+is+Zev;I'm+a+Computer+Science+Student;I'm+from+Brazil)](https://git.io/typing-svg)
 
@@ -51,4 +51,4 @@
 </div>
 
 ###
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFFF00,100:f2f5ab&reversal=true&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffd000&reversal=true&section=footer"/>
