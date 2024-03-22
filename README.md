@@ -53,4 +53,4 @@
 
 ###
 
-<img witdh=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFFF00,100:f2f5ab&reversal=true&section=footer"/>
+<img witdh=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFFF00,100:f2f5ab&reversal=true&section=footer"/>
