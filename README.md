@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Zev07/Zev07/output/snake.svg](https://github.com/Zev07/Zev07/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zev07/Zev07/output/snake.svg" alt="Snake animation" />
 
 ###
 
