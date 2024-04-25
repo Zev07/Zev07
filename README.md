@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=1080&height=30&lines=Hi+%F0%9F%91%8B!+My+name+is+Zev;I'm+a+Computer+Science+Student;I'm+from+Brazil)](https://git.io/typing-svg)
 
-<h2 align="center">My links:</h2>
+<h2 align="center">My links</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="center">Tools:</h2>
+<h2 align="center">Tools</h2>
 
 ###
 
