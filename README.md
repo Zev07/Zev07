@@ -5,7 +5,6 @@
 <br>
 
 <h2 align="center">My links</h2>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zev7/" target="_blank">
