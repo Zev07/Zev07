@@ -64,7 +64,7 @@
   <img src="https://streak-stats.demolab.com?user=Zev07&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zev07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zev07&theme=monokai&area=true&hide_border=false&hide_title=true&bg_color=121210" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Zev07&theme=onestar" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Zev07&theme=onestar" height="150" alt="trophy graph"  /> 
 </div>
 
 ###
