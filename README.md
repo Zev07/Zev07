@@ -91,6 +91,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph-dark.svg">
