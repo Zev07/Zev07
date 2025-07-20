@@ -90,12 +90,16 @@
   <img src="https://github-profile-trophy.vercel.app?username=Zev07&theme=onestar" height="150" alt="trophy graph"  /> 
 </div>
 
+
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="80%" data-canonical-src="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph.svg#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" width="80%" data-canonical-src="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
