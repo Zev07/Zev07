@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="center">Exploring</h3>
+<h2 align="center">Exploring</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="center">Tools</h3>
+<h2 align="center">Tools</h2>
 
 ###
 
