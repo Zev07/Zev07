@@ -104,13 +104,6 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif"  />
-</div>
-
-###
-
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zev07.Zev07&left_color=black&right_color=darkred"  />
 </div>
 
