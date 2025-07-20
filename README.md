@@ -96,9 +96,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/Zev07/Zev07/-/raw/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/Zev07/Zev07/-/raw/main/output/pacman-contribution-graph-light.svg">
-  <img alt="pacman contribution graph" src="https://gitlab.com/Zev07/Zev07/-/raw/main/output/pacman-contribution-graph-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
