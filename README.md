@@ -93,6 +93,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zev07/Zev07/output/pacman-contribution-graph.svg">
@@ -105,4 +107,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zev07.Zev07&left_color=black&right_color=darkred"  />
 </div>
 
+###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DC143C&reversal=true&section=footer"/>
