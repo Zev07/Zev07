@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=1080&height=30&lines=Hi+%F0%9F%91%8B!+My+name+is+Zev;I'm+a+Computer+Science+Student;I'm+from+Brazil)](https://git.io/typing-svg)
 <br>
-<br>
-
-<h2 align="center">My links</h2>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jose-victor7/" target="_blank">
@@ -15,69 +10,51 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Zev7&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
-
-###
+<br>
 
 <h2 align="center">Skills</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="45" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="45" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="45" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="45" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
 </div>
 
 ###
-
-<h2 align="center">Exploring</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
 <h2 align="center">Tools</h2>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="gitlab logo"  />
 </div>
 
 ###
@@ -87,9 +64,8 @@
   <img src="https://streak-stats.demolab.com?user=Zev07&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zev07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zev07&theme=monokai&area=true&hide_border=false&hide_title=true&bg_color=121210" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Zev07&theme=onestar" height="150" alt="trophy graph"  /> 
+  <img src="https://github-profile-trophy.vercel.app?username=Zev07&theme=monokai" height="150" alt="trophy graph"  /> 
 </div>
-
 
 ###
 
@@ -106,6 +82,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zev07.Zev07&left_color=black&right_color=darkred"  />
 </div>
-
-###
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DC143C&reversal=true&section=footer"/>
