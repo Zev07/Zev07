@@ -65,9 +65,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zev07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zev07&theme=monokai&area=true&hide_border=false&hide_title=true&bg_color=121210" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zev07&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=7&theme=monokai&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zev07&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=10&theme=monokai&hide_border=false" height="250" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-wheat.vercel.app?user=Zev07&theme=monokai&card_width=430&card_height=150" alt="GitHub Streak" /></a>
-  <img src="https://github-profile-trophy.vercel.app?username=Zev07&theme=monokai" height="150" alt="trophy graph"  /> 
+  <img src="https://github-profile-trophy.vercel.app?username=Zev07&theme=monokai" height="151" alt="trophy graph"  /> 
 </div>
 
 ###
