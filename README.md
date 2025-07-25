@@ -29,6 +29,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="45" alt="postgresql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
