@@ -63,7 +63,6 @@
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zev07&theme=monokai&area=true&hide_border=false&hide_title=true&bg_color=121210" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zev07&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=10&theme=monokai&hide_border=false" height="250" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-wheat.vercel.app?user=Zev07&theme=monokai&card_width=430&card_height=210" alt="GitHub Streak" /></a>
 </div>
