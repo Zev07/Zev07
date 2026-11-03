@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DC143C&reversal=true"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DC143C&center=true&vCenter=true&random=false&width=1080&height=30&lines=Hi+%F0%9F%91%8B!+My+name+is+Zev;I'm+a+Computer+Science+Student;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4c0404&center=true&vCenter=true&random=false&width=1080&height=30&lines=Hi+%F0%9F%91%8B!+My+name+is+Zev;I'm+a+Computer+Science+Student;I'm+from+Brazil)](https://git.io/typing-svg)
 <br>
 
 <div align="center">
@@ -74,4 +74,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zev07.Zev07&left_color=black&right_color=darkred"  />
 </div>
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DC143C&reversal=true&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4c0404&reversal=true&section=footer"/>
