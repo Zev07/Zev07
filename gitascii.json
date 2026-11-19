@@ -363,7 +363,7 @@
       "name": "Codeweb-showcase-cards Widget",
       "position": {
         "x": 0,
-        "y": 579.5
+        "y": 552
       },
       "size": {
         "width": 800,
@@ -375,7 +375,8 @@
         "titleLine2": "Currently in Rio de Janeiro",
         "card2Text": "whatever happens, happens",
         "card2GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VpM2t1M3VnaHJkOXRzMnJuZHc4dzBrN2ZwMWIzaHJ6N3hpb3FsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNy9OYM7hni2iHKeO/giphy.gif",
-        "card1GifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd1cnZ1amxqMzBiYm5qaHQ4YTBva3A5bmNtNTRudG5vZ256YTVzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b3M2WfKlKot9f2PXo/giphy.gif"
+        "card1GifUrl": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd1cnZ1amxqMzBiYm5qaHQ4YTBva3A5bmNtNTRudG5vZ256YTVzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b3M2WfKlKot9f2PXo/giphy.gif",
+        "hideDecorations": false
       },
       "locked": false,
       "visible": true,
@@ -441,12 +442,13 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": false
   },
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795129260897_xbj3y",
-    "updatedAt": "2026-11-19T23:01:04.157Z"
+    "revision": "rev_1795129557718_6rkem",
+    "updatedAt": "2026-11-19T23:06:01.380Z"
   }
 }
